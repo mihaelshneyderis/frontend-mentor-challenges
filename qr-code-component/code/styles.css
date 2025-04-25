@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
+:root {
+  /* Colors */
+  --color-background: hsl(212, 45%, 89%);
+  --color-card-background: hsl(0, 0%, 100%);
+  --color-text-primary: hsl(218, 44%, 22%);
+  --color-text-secondary: hsl(216, 15%, 48%);
+  --color-link: hsl(228, 45%, 44%);
+
+  /* Spacing */
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+
+  /* Border Radius */
+  --border-radius-card: calc(20 / 16 * 1rem);
+  --border-radius-image: calc(10 / 16 * 1rem);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: var(--color-background);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: var(--space-sm);
+}
+
+.card {
+  background-color: var(--color-card-background);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--space-sm) var(--space-sm) var(--space-lg);
+  border-radius: var(--border-radius-card);
+  width: min(calc(320 / 16 * 1rem), 100%);
+  box-shadow: 0 calc(25 / 16 * 1rem) calc(25 / 16 * 1rem) 0
+    rgba(0, 0, 0, 0.0477);
+  text-align: center;
+}
+
+.qr-code {
+  width: min(calc(288 / 16 * 1rem), 100%);
+  border-radius: var(--border-radius-image);
+  margin-bottom: var(--space-md);
+}
+
+.description {
+  padding: 0 var(--space-sm);
+}
+
+.description h2 {
+  font-size: calc(22 / 16 * 1rem);
+  line-height: 1.2;
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-sm);
+}
+
+.description p {
+  font-size: calc(15 / 16 * 1rem);
+  line-height: 1.4;
+  letter-spacing: calc(0.2 / 16 * 1rem);
+  color: var(--color-text-secondary);
+}
+
+.attribution {
+  font-size: calc(11 / 16 * 1rem);
+  text-align: center;
+  margin-top: var(--space-md);
+}
+
+.attribution a {
+  color: var(--color-link);
+}
