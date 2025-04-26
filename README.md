@@ -1,7 +1,7 @@
 # Frontend Mentor Completed Challenges
 
 ## QR Code Component (26/5/2025)
-[![QR Code Component preview](./qr-code-component/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/)
+[![QR Code Component preview](./qr-code-component/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/code/index.html)
 
 - [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/code/index.html)
 - [Source Code](https://github.com/mihaelshneyderis/frontend-mentor-challenges/tree/main/qr-code-component)
@@ -23,7 +23,7 @@
 <!--
 ## Challenge Name (Date)
 [![Challenge preview](./challenge-folder/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/index.html)
-- [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/)
+- [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/index.html)
 - [Source Code](https://github.com/mihaelshneyderis/frontend-mentor-challenges/tree/main/challenge-folder)
 ### What I learned
 -
