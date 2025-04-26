@@ -18,9 +18,8 @@
 - I want to get faster, I spent too much time overthinking minor code details that don't affect the design
 - I want to get better at the basics
 - I want to learn more about best practices
----
-
 <!--
+---
 ## Challenge Name (Date)
 [![Challenge preview](./challenge-folder/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/)
 - [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/)
@@ -29,5 +28,4 @@
 -
 ### Continued development
 -
----
 -->
