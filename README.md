@@ -3,7 +3,7 @@
 ## QR Code Component (26/5/2025)
 [![QR Code Component preview](./qr-code-component/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/)
 
-- [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/)
+- [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/code/index.html)
 - [Source Code](https://github.com/mihaelshneyderis/frontend-mentor-challenges/tree/main/qr-code-component)
 - [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
@@ -16,11 +16,13 @@
 - Remember to use meta tags for SEO
 ### Continued development
 - I want to get faster, I spent too much time overthinking minor code details that don't affect the design
+- I want to get better at the basics
+- I want to learn more about best practices
 ---
 
 <!--
 ## Challenge Name (Date)
-[![Challenge preview](./challenge-folder/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/)
+[![Challenge preview](./challenge-folder/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/index.html)
 - [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/)
 - [Source Code](https://github.com/mihaelshneyderis/frontend-mentor-challenges/tree/main/challenge-folder)
 ### What I learned
