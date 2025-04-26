@@ -1,9 +1,9 @@
 # Frontend Mentor Completed Challenges
 
 ## QR Code Component (26/5/2025)
-[![QR Code Component preview](./qr-code-component/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/code/index.html)
+[![QR Code Component preview](./qr-code-component/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/code/)
 
-- [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/code/index.html)
+- [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/qr-code-component/code/)
 - [Source Code](https://github.com/mihaelshneyderis/frontend-mentor-challenges/tree/main/qr-code-component)
 - [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
@@ -22,8 +22,8 @@
 
 <!--
 ## Challenge Name (Date)
-[![Challenge preview](./challenge-folder/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/index.html)
-- [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/index.html)
+[![Challenge preview](./challenge-folder/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/)
+- [Live Demo](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/)
 - [Source Code](https://github.com/mihaelshneyderis/frontend-mentor-challenges/tree/main/challenge-folder)
 ### What I learned
 -
