@@ -19,7 +19,7 @@
 - I want to get better at the basics
 - I want to learn more about best practices
 
-<!--
+[//]: # (
 ---
 ## Challenge Name (Date)
 [![Challenge preview](./challenge-folder/preview.png)](https://mihaelshneyderis.github.io/frontend-mentor-challenges/challenge-folder/code/)
@@ -29,4 +29,4 @@
 -
 ### Continued development
 -
--->
+)
